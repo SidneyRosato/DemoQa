@@ -18,6 +18,7 @@ public class RegistrationTests {
 	WebDriver driver;
 	String url = "http://demoqa.com/registration/";
 
+	//
 	@BeforeMethod
 	public void setUp() {
 		System.setProperty("webdriver.chrome.driver", "C:/Users/sidkr/Documents/Libraries/drivers/chromedriver.exe");
