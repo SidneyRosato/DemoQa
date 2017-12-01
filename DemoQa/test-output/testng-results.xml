@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23769" started-at="2017-11-26T22:26:28Z" finished-at="2017-11-26T22:26:52Z">
+  <suite name="Default suite" duration-ms="25366" started-at="2017-11-29T01:13:33Z" finished-at="2017-11-29T01:13:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23769" started-at="2017-11-26T22:26:28Z" finished-at="2017-11-26T22:26:52Z">
-      <class name="com.demoqa_registration_tests.WeakPwdRegistrationTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="setUp" is-config="true" duration-ms="4879" started-at="2017-11-26T17:26:28Z" finished-at="2017-11-26T17:26:33Z">
+    <test name="Default test" duration-ms="25366" started-at="2017-11-29T01:13:33Z" finished-at="2017-11-29T01:13:58Z">
+      <class name="com.demoqa_registration_tests.RegistrationTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="setUp" is-config="true" duration-ms="4782" started-at="2017-11-28T20:13:33Z" finished-at="2017-11-28T20:13:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="invalidPasswordTest()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="invalidPasswordTest" duration-ms="2083" started-at="2017-11-26T17:26:33Z" finished-at="2017-11-26T17:26:35Z">
+        <test-method status="PASS" signature="invalidPasswordTest()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="invalidPasswordTest" duration-ms="1977" started-at="2017-11-28T20:13:38Z" finished-at="2017-11-28T20:13:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidPasswordTest -->
-        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="closeWindow" is-config="true" duration-ms="886" started-at="2017-11-26T17:26:35Z" finished-at="2017-11-26T17:26:36Z">
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="closeWindow" is-config="true" duration-ms="866" started-at="2017-11-28T20:13:39Z" finished-at="2017-11-28T20:13:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeWindow -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="setUp" is-config="true" duration-ms="4164" started-at="2017-11-26T17:26:36Z" finished-at="2017-11-26T17:26:40Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="setUp" is-config="true" duration-ms="3730" started-at="2017-11-28T20:13:40Z" finished-at="2017-11-28T20:13:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="strongPassword()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="strongPassword" duration-ms="4070" started-at="2017-11-26T17:26:40Z" finished-at="2017-11-26T17:26:44Z">
+        <test-method status="PASS" signature="strongPassword()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="strongPassword" duration-ms="6855" started-at="2017-11-28T20:13:44Z" finished-at="2017-11-28T20:13:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- strongPassword -->
-        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="closeWindow" is-config="true" duration-ms="848" started-at="2017-11-26T17:26:44Z" finished-at="2017-11-26T17:26:45Z">
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="closeWindow" is-config="true" duration-ms="779" started-at="2017-11-28T20:13:51Z" finished-at="2017-11-28T20:13:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeWindow -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="setUp" is-config="true" duration-ms="3842" started-at="2017-11-26T17:26:45Z" finished-at="2017-11-26T17:26:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="setUp" is-config="true" duration-ms="3630" started-at="2017-11-28T20:13:52Z" finished-at="2017-11-28T20:13:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="weakPasswordTest()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="weakPasswordTest" duration-ms="2168" started-at="2017-11-26T17:26:49Z" finished-at="2017-11-26T17:26:51Z">
+        <test-method status="PASS" signature="weakPasswordTest()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="weakPasswordTest" duration-ms="1991" started-at="2017-11-28T20:13:55Z" finished-at="2017-11-28T20:13:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- weakPasswordTest -->
-        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.WeakPwdRegistrationTest@5442a311]" name="closeWindow" is-config="true" duration-ms="808" started-at="2017-11-26T17:26:51Z" finished-at="2017-11-26T17:26:52Z">
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.demoqa_registration_tests.RegistrationTests@5442a311]" name="closeWindow" is-config="true" duration-ms="736" started-at="2017-11-28T20:13:57Z" finished-at="2017-11-28T20:13:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeWindow -->
-      </class> <!-- com.demoqa_registration_tests.WeakPwdRegistrationTest -->
+      </class> <!-- com.demoqa_registration_tests.RegistrationTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
